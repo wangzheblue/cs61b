@@ -79,6 +79,7 @@ public class Planet {
     this.yyVel = this.yyVel + accY * dt;
     this.xxPos = this.xxPos + xxVel * dt;
     this.yyPos = this.yyPos + yyVel * dt;
-
   }
+
+  
 }
